@@ -1,0 +1,1 @@
+# bcg-gen-ai-project
